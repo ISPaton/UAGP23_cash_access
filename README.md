@@ -4,7 +4,8 @@ Project for urban analytics group project - initial setup for later transfer
 12 February 2023
 
 Data from below loaded into Jupyter notebook but for Scotland, not Glasgow
-Postcode files uploaded in zipfile
+Postcode csv files uploaded in zipfile along with XY cash machines
+SIMD is too large to upload and will need to be downloaded separately or used via API, or used following the join to Postcodes.
 Jupyter notebook uploaded UAGP_cash_2023_02_12
 Catchment generation (eg 800m buffer) still needs done in Jupyter
 
