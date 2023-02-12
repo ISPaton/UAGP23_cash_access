@@ -1,6 +1,14 @@
 # UAGP23_cash_access
 Project for urban analytics group project - initial setup for later transfer
 
+12 February 2023
+Data from below loaded into Jupyter notebook but for Scotland, not Glasgow
+Postcode files uploaded in zipfile
+Jupyter notebook uploaded UAGP_cash_2023_02_12
+Catchment generation (eg 800m buffer) still needs done in Jupyter
+
+11 February 2023
+
 3x files uploaded for Glasgow City council area as demonstration/exploratory analysis:
 1. clip_glas_cashpoint_xy.zip is a zipfile containing 1 shapefile that is the xy point locations and type (charge/free) of ATMs clipped for the Glasgow area.
 2. clip_glas_pc_vertex_join_simd.zip is a zipfile containing 1 shapefile that is postcode point centroids clipped for the Glasgow area joined to SIMD and also filtered for records with >=1 residential delivery point (ie removing those with zero residential delivery points).
