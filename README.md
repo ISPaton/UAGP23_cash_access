@@ -1,7 +1,8 @@
 # UAGP23_cash_access
 Project for urban analytics group project - initial setup for later transfer
 
-18 February 2003
+18 February 2023
+
 Notebook finished in terms of exploratory data analysis for Glasgow
 Varying the threshold for "residential delivery points" (">0" but with max 100 and mean 18) may vary results.
 Varying buffer (800m) may vary results.
