@@ -1,5 +1,7 @@
 # UAGP23_cash_access
-Project for urban analytics group project - initial setup for later transfer
+Project for urban analytics group project data sharing. Private Teams page and Whatsapp should be used for project management discussions.
+
+
 
 18 February 2023
 
