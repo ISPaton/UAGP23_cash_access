@@ -1,7 +1,9 @@
 # UAGP23_cash_access
 Project for urban analytics group project data sharing. Private Teams page and Whatsapp should be used for project management discussions.
 
+24 April 2023
 
+Final Notebook uploaded. Most development work done via Teams dialogue. Notebook can be used with modified parameters for testing different scenarios.
 
 18 February 2023
 
